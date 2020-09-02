@@ -1,4 +1,4 @@
 # silverman-nathaniel
 
 Projects:
--Document Database search engine
+  1) Document Database search engine: goto README.md in /projects/search_engine for project description
