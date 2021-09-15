@@ -1,19 +1,12 @@
-# RMI_File_System
+# Remote Method Invocation File System
 
-Intro to Operating Systems
 
 # Projects Partners
     
     Zach Hamburger
-    Email: zhambur2@mail.yu.edu 
-    YUID: 800344985
-
     Nathaniel Silverman
-    Email: nmsilver@mail.yu.edu
-    YUID: 800620494 
     
-    
-# Submitted Files
+# Files
 
     fat32_reader.java
 
