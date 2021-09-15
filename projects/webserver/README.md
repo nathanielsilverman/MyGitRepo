@@ -1,9 +1,9 @@
 # Web Servers and Synchronization
 
-## Multi-Threaded server which can handles requests using 1 of 4 different scheduling policies to synchronize threads, logging usage statistics of server requests.
-## Multi-Threaded Client which sends requests to the server in a pre-specified convention (First-In-First-Out or Concurrently)
+Multi-Threaded server which can handles requests using 1 of 4 different scheduling policies to synchronize threads, logging usage statistics of server requests.
+Multi-Threaded Client which sends requests to the server in a pre-specified convention (First-In-First-Out or Concurrently)
 
-## Written using C and pthread libraries 
+Written using C and pthread libraries 
 
 # Project Partners:  
     Zach Hamburger     
