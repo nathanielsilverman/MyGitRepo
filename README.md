@@ -1,7 +1,7 @@
 # Nathaniel Silverman Git Repo
 
 Projects:
-  1) Document Database search engine: goto README.md in /projects/search_engine for project description
+  1) Document Database with built-in search engine: goto README.md in /projects/search_engine for project description
 
   2) Multi-threaded webserver/client pair: goto README.md in /projects/webserver for project description
 
